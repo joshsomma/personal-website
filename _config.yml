@@ -1,4 +1,4 @@
-
+baseurl : "/personal-website"
 
 plugins:
   - jekyll-seo-tag
