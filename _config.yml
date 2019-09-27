@@ -1,4 +1,5 @@
-baseurl : "/personal-website"
+
+ga_code : "UA-11483598-1"
 
 plugins:
   - jekyll-seo-tag
