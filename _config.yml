@@ -3,3 +3,8 @@ ga_code : "UA-11483598-1"
 
 plugins:
   - jekyll-seo-tag
+
+# seo data
+title : Josh Somma's awesome website
+description : Personal website of Josh Somma, London UK
+url : https://joshsomma.com
