@@ -1,0 +1,16 @@
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link rel="icon" type="image/png" href="/assets/img/favicon.png" />
+    <title>{{ page.title }}</title>
+    {% seo %}
+    {% if site.ga_code and jekyll.environment == 'production' %}
+        {% include ga.html %}
+    {% endif %}
+    {% if page.keywords %}
+    <meta name="keywords" content="{{ page.keywords | join: ', ' | escape }}">
+    {% endif %}
+    
+    {% include header_scripts.html %}
+
+</head>

@@ -1,0 +1,56 @@
+---
+title: All blog posts
+---
+<!DOCTYPE html>
+<html lang="en">
+
+{% include meta_head.html %}
+
+<body id="page-top">
+    {% include navigation.html %}
+    <div class="container-fluid p-0">
+        <h1>{{ page.title }}</h1>
+
+        <section class="resume-section p-3 p-lg-5 d-flex justify-content-center" id="blog">
+            <div class="w-100">
+                <h2 class="mb-3">Blog posts</h2>
+
+                {% for post in paginator.posts %}
+                    <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-2">
+                        <div class="resume-content">
+                            <h3 class="mb-0"><a href="{{ post.url }}">{{ post.title }}</a></h3>
+                        </div>
+                    </div>
+                {% endfor %}
+
+            </div>
+        </section>
+        <section class="resume-section p-3 p-lg-5 d-flex justify-content-center" id="blog_pagination">
+            <div class="w-100">
+                <!-- Pagination links -->
+
+                <nav aria-label="Page navigation example">
+                    <ul class="pagination">
+                        {% if paginator.previous_page %}
+                        <li class="page-item"><a class="page-link" href="{{ paginator.previous_page_path }}">Previous</a></li>
+                        {% else %}
+                        <li class="page-item disabled"><span class="page-link">Previous</span></li>
+                        {% endif %}
+                        <li class="page-item disabled"><span class="page-link">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span></li>
+                        {% if paginator.next_page %}
+                        <li class="page-item"><a class="page-link" href="{{ paginator.next_page_path }}">Next</a></li>
+                        {% else %}
+                        <li class="page-item disabled"><span class="page-link">Next</span></li>
+                        {% endif %}
+                    </ul>
+                </nav>
+
+        </section>
+    </div>
+
+
+
+    {% include footer_scripts.html %}
+
+</body>
+</html>

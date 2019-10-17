@@ -3,6 +3,10 @@ ga_code : "UA-11483598-1"
 
 plugins:
   - jekyll-seo-tag
+  - jekyll-paginate
+
+paginate: 10
+paginate_path: "/blog/page:num/"
 
 # seo data
 title : Josh Somma's awesome website
