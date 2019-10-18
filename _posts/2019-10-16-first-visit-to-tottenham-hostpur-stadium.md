@@ -14,4 +14,4 @@ As I was approaching the stadium with my companion Rob, we were discussing how m
 
 Anyway, here's a view from our seats in the south stand of the pre-game...
 
-![Bears v Raiders at Tottenham Hotspur stadium, row 15 in the south stand](/assets/img/spurs_bears_raiders_600x450.png)
+{% responsive_image path: assets/img/spurs_bears_raiders_600w.png alt: "Bear v Raiders pre-game warmups at Tottenham Hotspur stadium" %}
