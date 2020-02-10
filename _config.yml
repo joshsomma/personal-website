@@ -10,6 +10,6 @@ paginate: 10
 paginate_path: "/blog/page:num/"
 
 # seo data
-title : Josh Somma's awesome website
-description : Personal website of Josh Somma, London UK
+title : Josh Somma's website
+description : Personal website of Josh Somma
 url : https://joshsomma.com
