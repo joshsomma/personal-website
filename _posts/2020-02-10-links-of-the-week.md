@@ -37,7 +37,7 @@ keywords:
 
 * Places-->Paris--> <a href="https://www.afar.com/magazine/black-history-in-paris-places-to-visit-and-best-guided-tours" target="_blank">A Black History Tour of Paris</a>
 
-    This post caught my eye because I stayed on Rue del La Huchette years ago on my first visit to Paris. We went to le Caveau and had a blast listening to live jazz and dancing, so much so I've been back on subsequent visits. Great place for a night out if you're in the city of light.
+    This post caught my eye because I stayed on Rue de La Huchette years ago on my first visit to Paris. We went to le Caveau and had a blast listening to live jazz and dancing, so much so I've been back on subsequent visits. Great place for a night out if you're in the city of light.
 
 * Taleb--> <a href="https://medium.com/@nntaleb/commencement-address-american-university-in-beirut-2016-a5c6d57984b" target="_blank">Commencement speech from American University of Beirut</a>
 
