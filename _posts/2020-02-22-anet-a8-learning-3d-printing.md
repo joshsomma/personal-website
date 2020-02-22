@@ -7,7 +7,7 @@ keywords:
     - DIY
 author: Josh
 ---
-Didn't curate a list of good links this week so posting about my 3D printing side project. Didn't have a a lot of time for reading as there's been some turmoil at work. So here's a bit of information about my Anet A8 3D printer. If you've never heard of the Anet A8, its a cheap but capable 3D printer you can buy from sites like <a href="https://www.gearbest.com/sale/anet-a8/" target="_blank">GearBest</a>. I was given one intact but non-functioning by a guy from work. Trying to get it to work has meant *lots* of time on youtube, stackoverflow and reddit. It's a bit maddening really.
+Didn't curate a list of good links this week so posting about my 3D printing side project.Here's a bit of information about my Anet A8 3D printer. If you've never heard of the Anet A8, its a cheap but capable 3D printer you can buy from sites like <a href="https://www.gearbest.com/sale/anet-a8/" target="_blank">GearBest</a>. I was given one intact but non-functioning by a guy from work. Trying to get it to work has meant *lots* of time on youtube, stackoverflow and reddit. It's a bit maddening really.
 
 There is one interesting non-Anet A8 link I'd like to share that concerns the use of 3D game engines in animating video for TV and movies. If you've seen the series *The Mandalorian*, you might not be aware that most of what you are seeing was developed and rendered by the same game engine that Fortnite uses. This method for creating video is going to become huge. <a href="https://venturebeat.com/2020/02/20/ilm-reveals-how-it-used-unreal-engine-for-the-mandalorian/" target="_blank">ILM reveals how it used Unreal Engine for ‘The Mandalorian’</a>
 
